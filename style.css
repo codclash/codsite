@@ -1,0 +1,134 @@
+body {
+    font-family: "Avenir Next";
+    background-color:lightcyan;
+  }
+span.password { font-size: 1px; font-family: "Avenir Next"; font-weight: bold; margin: px ; }
+input[type=button] { font-size: 15px; margin: 10px; }
+  
+ .nav li {
+    list-style: none;
+    font-size:x-large;
+    display: inline;
+    padding-right: 70px; 
+  }
+  
+.header {
+  background-color:rgb(81, 111, 141);
+  text-align:center;
+  color: white;
+  height: 320px;
+  
+}
+
+.logo{
+    text-align: center;   
+}
+h2{
+    color:navy;
+    font-size: 30px;
+    border-bottom: navy 3px dotted;
+    margin-top: 100px;
+  }
+  p {
+    line-height: 1.6;
+  }
+  .keyvisual{
+    float: left;
+    width: 900px;
+    height: 580px;
+    padding: 30px;
+    
+  }
+  .introduction{
+    height: 700px;
+    font-size:20px;
+    padding-right: 30px;
+  }
+.mens{
+    height: 150px;
+}
+  .mens li{
+    font-size: 18px;
+    margin-left: 50px;
+    float: left;
+  } 
+  .memo{
+    float: right;
+  }
+
+  .tomoki{
+    margin-right: 20px;
+    text-align:right; 
+}
+  .h3{
+    color:white;
+    background-color:black;
+    height: 45px;
+    font-size: 30px;
+    margin: 100px 0px 5px 0px;
+    text-align:left; 
+}
+ 
+
+.comment{
+    height: 800px;
+    font-size:20px;
+    background-color: white;    
+  }
+
+.mini{
+    font-size: 18px;
+    color: navy;
+    padding-right: 30px;
+}
+.deck{
+    float: left;
+    width: 950px;
+    height: 700px;
+    padding: 30px;
+}
+.unit{
+    width: 300px;
+    height: 210px;
+    float: right;
+    padding-right: 30px;
+}
+.news-item{
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+.tab{
+  text-align: right;
+}
+
+
+
+/**/
+.footer{
+  background-color:rgb(81, 111, 141);
+  height: 300px;
+  color: white;
+  text-align: center;
+}
+
+
+
+.footer-logo{
+  text-align:unset;  
+}
+
+.footer-list li{
+    list-style: none;
+    display: inline;
+    padding-right: 30px;
+}
+
+.yuma{
+  text-align: center;
+}
